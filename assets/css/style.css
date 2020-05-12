@@ -102,7 +102,7 @@ body {
 .auto-container{
   position:static;
   max-width:1200px;
-  padding:50px 0px;
+  padding: 50px 0px;
   margin:0 auto;
 }
 
@@ -3807,7 +3807,7 @@ div#mCSB_1_container{
 
 .page-title{
   position: relative;
-  padding: 225px 0px 140px 0px;
+  padding: 200px 0px 0px 0px;
 }
 
 .page-title .pattern-layer{
@@ -4196,7 +4196,7 @@ div#mCSB_1_container{
 }
 
 .team-section .team-block{
-  padding: 0px 20px;
+  padding: 50px 20px;
 }
 
 .team-section .inner-content{
