@@ -102,7 +102,7 @@ body {
 .auto-container{
   position:static;
   max-width:1200px;
-  padding:0px 15px;
+  padding:50px 0px;
   margin:0 auto;
 }
 
@@ -4143,7 +4143,7 @@ div#mCSB_1_container{
   display: block;
   width: 100%;
   left: 0px;
-  bottom: -121px;
+  bottom: -300px;
   right: 0px;
   border-radius: 20px;
   padding: 38px 15px;
