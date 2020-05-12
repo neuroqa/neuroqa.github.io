@@ -1330,7 +1330,7 @@ div#mCSB_1_container{
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   color: #3b3b3b;
-  padding: 15px 0px 15px 75px;
+  padding: 15px 0px 0px 0px;
   z-index: 1;
 }
 
